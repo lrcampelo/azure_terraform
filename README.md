@@ -1,5 +1,10 @@
-# azuredevops-terraform-provider
-Unyleya - unidade 4 - Luis Ricardo 
-Basic project for deploy a new Team Project using the Azure DevOps provider for terraform
+# Terraform-Demo
+Terraform-Demo
 
-https://registry.terraform.io/providers/microsoft/azuredevops/latest/docs/resources/serviceendpoint_azurerm#requirements-manual-azurerm-service-endpoint
+
+#Watch out that app service name is unique.
+
+Error: The name "terraform-app-service" used for the App Service 
+needs to be globally unique and isn't available: 
+Hostname 'terraform-app-service' already exists. Please select a different name.
+
